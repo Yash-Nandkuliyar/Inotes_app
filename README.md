@@ -5,8 +5,7 @@ Installers can be found here: https://nodejs.org/en/download
 
 Another option for installing Node is the Node Version Manager (nvm), which is a POSIX-compliant bash script to manage multiple active Node.js versions. Instructions for installing and using nvm to install Node and NPM can be found at https://github.com/nvm-sh/nvm.
 
-Installation
-The code for the chat app can be found at the public GitHub repo https://github.com/owanhunte/nodejs-chat-app. Either clone the repo to a local folder on your machine or download and extract the archive if you don't have Git installed.
+Installation.
 
 Open a terminal window session, or the equivalent on your machine, and enter the following command to install all the Node modules needed to run the app:
 
